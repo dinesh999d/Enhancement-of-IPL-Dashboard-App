@@ -1,0 +1,38 @@
+/* Write your CSS here */
+team-match-div {
+  width: 100vh;
+  height: 24vh;
+  padding: 20px;
+}
+.team-match-box {
+  border-radius: 10px;
+  width: 100%;
+  height: auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #1e293b;
+}
+.latest-match-team-logo {
+  width: 24%;
+}
+.details {
+  font-family: Bree Serif;
+  font-size: 18px;
+  color: #fff;
+}
+.team-box-head {
+  font-size: 26px;
+}
+.content-holder-2 {
+  text-align: right;
+}
+.content-holder {
+  width: 33%;
+}
+.team-match {
+  font-size: 14px;
+  margin-top: 20px;
+}

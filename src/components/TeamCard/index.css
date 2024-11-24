@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.each {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 18vh;
+  width: 55vh;
+  background-color: transparent;
+  margin-bottom: 10vh;
+  background-color: #ffffff33;
+  border-radius: 20px;
+  border-color: #475569;
+  margin: 10px;
+}
+.logo-img {
+  height: 14vh;
+}
+.eachcard-name {
+  text-align: center;
+  color: #fff;
+  text-align: center;
+  font-weight: 400;
+  font-size: 34px;
+}
+.list-item {
+  list-style: none;
+}
